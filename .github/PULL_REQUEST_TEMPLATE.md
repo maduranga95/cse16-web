@@ -1,7 +1,3 @@
-# sabesansathananthan.github.io
-
-![GitHub Flow PR Image](http://i.imgur.com/9flS3QU.png)
-
 Thank you so much for opening a pull request! :smiley:
 
 Please provide the following information where possible to help the pull request reviewer merge your PR quicker!

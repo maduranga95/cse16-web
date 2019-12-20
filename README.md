@@ -2,6 +2,9 @@
 
 > The official web site of Batch 16 of Department of Computer Science and Engineering of University of Moratuwa.
 
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/binodmx/cse16-web)](https://cse16.tk/)
+
+
 ## Build Setup
 
 ``` bash

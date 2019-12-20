@@ -1,5 +1,5 @@
 .DS_Store
-.firebase
+.firebase/
 dist/
 node_modules/
 src/firebase/init.js
